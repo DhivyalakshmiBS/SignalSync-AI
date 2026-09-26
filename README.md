@@ -1,4 +1,4 @@
-# ⚡ SignalSense AI – Power Quality Disturbance Detection
+# ⚡ SignalSync AI – Power Quality Disturbance Detection
 
 ## 📌 Project Overview
 
